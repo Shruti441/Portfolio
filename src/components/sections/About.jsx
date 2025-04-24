@@ -25,8 +25,10 @@ export const About = () => {
 
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-              Passionate developer with expertise in building scalable web
-              applications and creating innovative solutions.
+             A dynamic and motivated B.Tech graduate with a strong foundation in software and web development. Skilled 
+             in modern technologies like React and Node.js with hand on experience in building responsive, user- centric applications.
+             Passionate about solving real-world problems through clean, efficient code and eager to contribute to innovative 
+             development teams in a fast-paced environment.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -69,8 +71,16 @@ export const About = () => {
               <h3 className="text-xl font-bold mb-4"> 🏫 Education </h3>
               <ul className="list-disc list-inside text-gray-300 space-y-2">
                 <li>
-                  <strong> B.S. in Computer Science </strong> - XYZ University
-                  (2016-2020)
+                  <strong> B.Tech in Computer Science and Engineering</strong> - ALigarh College of Engineering and Technology 
+                  (2020-2024)
+                </li>
+                <li>
+                  <strong> Intermediate </strong> - Heritage International School
+                  (2018-2020)
+                </li>
+                <li>
+                  <strong> Marticulation </strong> - Heritage International School
+                  (2017-2018)
                 </li>
                 <li>
                   Relevant Coursework: Data Structures, Web Development, Cloud
@@ -79,27 +89,29 @@ export const About = () => {
               </ul>
             </div>
             <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
-              <h3 className="text-xl font-bold mb-4"> 💼 Work Experience </h3>
+              <h3 className="text-xl font-bold mb-4"> 💼 Internships </h3>
               <div className="space-y-4 text-gray-300">
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Software Engineer at ABC Corp (2020 - Present){" "}
+                    Full Stack Web Developer Intern at Bharat Intern (Aug 2023-Sep 2023){" "}
                   </h4>
                   <p>
-                    Developed and maintained microservices for cloud-based
-                    applications.
+                   Worked on end-to-end web application development using the MERN stack ,combining
+                   user-friendly front-end design with effective backend logic. Gained hand-on experience in building interfaces
+                   with React and creating APIs using Node.js and Express.js. This internship helped me build a full-stack mindset, focusing on functionality 
+                   , performance and user experience .
                   </p>
                 </div>
 
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Intern at DEF Startups (2019){" "}
+                   Python Intern at SkillVoid (sep 2022-oct 2022){" "}
                   </h4>
                   <p>
-                    Assisted in building front-end components and integration
-                    REST APIs
+                    Worked on developing projects using Python, focusing on writing clean, efficient code and applying core programming concepts. Gained experience in automating tasks, handling files, and using libraries such as pandas , requests, 
+                    and datetime. This internship supported strengthened my problem-solving skills and deepened my understanding of Python development in real-world scenarios.
                   </p>
                 </div>
               </div>
